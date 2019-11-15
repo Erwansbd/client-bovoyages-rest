@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"fr.gtm.bovoyages.dao"},{"l":"fr.gtm.bovoyages.dto"},{"l":"fr.gtm.bovoyages.entities"},{"l":"fr.gtm.bovoyages.services.rest"},{"l":"fr.gtm.bovoyages.services.soap"}]

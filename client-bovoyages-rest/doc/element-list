@@ -1,0 +1,5 @@
+fr.gtm.bovoyages.dao
+fr.gtm.bovoyages.dto
+fr.gtm.bovoyages.entities
+fr.gtm.bovoyages.services.rest
+fr.gtm.bovoyages.services.soap
